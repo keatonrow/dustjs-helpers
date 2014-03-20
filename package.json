@@ -57,6 +57,9 @@
   "peerDependencies": {
     "dustjs-linkedin": "*"
   },
+  "dependencies": {
+    "dustjs-linkedin": "*"
+  },
   "devDependencies": {
     "jasmine-node": "~1.13.0",
     "grunt": "~0.4.2",
